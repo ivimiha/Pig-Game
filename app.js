@@ -74,3 +74,5 @@ function nextPlayer() {
 }
 
 console.log("Some message!");
+
+console.log("absda")
