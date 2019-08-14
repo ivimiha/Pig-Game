@@ -72,3 +72,5 @@ function nextPlayer() {
         
     document.querySelector(".dice").style.display = "none";
 }
+
+console.log("Some message!");
